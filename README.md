@@ -7,4 +7,4 @@ Here - PIYUSH_OS_records 2 (includes unit 3,4 & 5) pracyticals [PDF FORMAT]
 other -
  RAW FILES (made with jupiter notebook) of practicals
 
- FILES ENTITTLED WITH LAB_EXPERIMENTS (includes RAW FILES of extra practical works)
+ FILES ENTITTLED WITH LAB_EXPERIMENTS (includes RAW FILES of 5 extra practical works)
